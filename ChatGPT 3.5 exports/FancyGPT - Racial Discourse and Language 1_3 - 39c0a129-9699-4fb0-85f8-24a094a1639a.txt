@@ -1,0 +1,50 @@
+FancyGPT lets you beautify your threads, and store them for future reference or sharing with others.
+
+1.  Choose a style that you like
+2.  Add an optional snippet title
+3.  Exclude any messages that you don't want
+4.  Click and drag on ChatGPT messages to highlight content
+5.  Click "Save Image" to download your fancy snippet as an image
+6.  Click "Save PDF" to download your fancy snippet as a searchable PDF
+7.  Click "Save Text file" to download your fancy snippet as a text file (in markdown format)
+
+Note: This extension is reliant on ChatGPT's thread format and could break if things change.
+
+Don't show this info box each time
+
+### Racial Discourse and Language 1/3 - 39c0a129-9699-4fb0-85f8-24a094a1639a
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+List six references on the topic "Racial Discourse and Language"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Here are six references on the topic "Racial Discourse and Language":
+
+1.  Bonilla-Silva, E. (2003). Racism without racists: Color-blind racism and the persistence of racial inequality in America. Rowman & Littlefield Publishers.
+    
+2.  Collins, P. H. (2000). Black feminist thought: Knowledge, consciousness, and the politics of empowerment. Routledge.
+    
+3.  Hill, J. H. (2008). Language, race, and white public space. American Anthropologist, 110(3), 338-349.
+    
+4.  Inoue, A. B. (2015). Antiracist writing assessment ecologies: Teaching and assessing writing for a socially just future. WAC Clearinghouse.
+    
+5.  Janks, H. (2010). Literacy and power. Routledge.
+    
+6.  Smitherman, G. (1977). Talkin and testifyin: The language of black America. Wayne State University Press.
+    
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Write the references in a code block as BibTeX
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sure, here are the references in BibTeX format:
+
+`@book{bonilla2003racism,  title={Racism without racists: Color-blind racism and the persistence of racial inequality in America},  author={Bonilla-Silva, Eduardo},  year={2003},  publisher={Rowman \& Littlefield Publishers}}@book{collins2000black,  title={Black feminist thought: Knowledge, consciousness, and the politics of empowerment},  author={Collins, Patricia Hill},  year={2000},  publisher={Routledge}}@article{hill2008language,  title={Language, race, and white public space},  author={Hill, Jane H.},  journal={American Anthropologist},  volume={110},  number={3},  pages={338--349},  year={2008},}@book{inoue2015antiracist,  title={Antiracist writing assessment ecologies: Teaching and assessing writing for a socially just future},  author={Inoue, Asao B.},  year={2015},  publisher={WAC Clearinghouse}}@book{janks2010literacy,  title={Literacy and power},  author={Janks, Hilary},  year={2010},  publisher={Routledge}}@book{smitherman1977talkin,  title={Talkin and testifyin: The language of black America},  author={Smitherman, Geneva},  year={1977},  publisher={Wayne State University Press}}`
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+From ChatGPT, designed with FancyGPT
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -1,0 +1,50 @@
+FancyGPT lets you beautify your threads, and store them for future reference or sharing with others.
+
+1.  Choose a style that you like
+2.  Add an optional snippet title
+3.  Exclude any messages that you don't want
+4.  Click and drag on ChatGPT messages to highlight content
+5.  Click "Save Image" to download your fancy snippet as an image
+6.  Click "Save PDF" to download your fancy snippet as a searchable PDF
+7.  Click "Save Text file" to download your fancy snippet as a text file (in markdown format)
+
+Note: This extension is reliant on ChatGPT's thread format and could break if things change.
+
+Don't show this info box each time
+
+### Cell-free systems 1/3 - e6fb4e68-31ca-40a4-9a1b-42130e1d42b0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+List six references on the topic "Cell-free systems"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sure, here are six references on the topic of cell-free systems:
+
+1.  Carlson, E.D., Gan, R., Hodgman, C.E., and Jewett, M.C. (2012). Cell-free protein synthesis: applications come of age. Biotechnology Advances 30, 1185-1194. [https://doi.org/10.1016/j.biotechadv.2011.09.013](https://doi.org/10.1016/j.biotechadv.2011.09.013)
+    
+2.  Jewett, M.C., and Swartz, J.R. (2004). Mimicking the Escherichia coli cytoplasmic environment activates long-lived and efficient cell-free protein synthesis. Biotechnology and Bioengineering 86, 19-26. [https://doi.org/10.1002/bit.20009](https://doi.org/10.1002/bit.20009)
+    
+3.  Garamella, J., Marshall, R., Rustad, M., Noireaux, V., and Vogel, J. (2016). The All E. coli TX-TL Toolbox 2.0: A platform for cell-free synthetic biology. ACS Synthetic Biology 5, 344-355. [https://doi.org/10.1021/acssynbio.5b00296](https://doi.org/10.1021/acssynbio.5b00296)
+    
+4.  Kuruma, Y., and Ueda, T. (2015). The PURE system for the cell-free synthesis of membrane proteins. Nature Protocols 10, 1328-1344. [https://doi.org/10.1038/nprot.2015.085](https://doi.org/10.1038/nprot.2015.085)
+    
+5.  Caschera, F., and Noireaux, V. (2014). Synthesis of 2.3 mg/ml of protein with an all Escherichia coli cell-free transcription-translation system. Biochimie 99, 162-168. [https://doi.org/10.1016/j.biochi.2013.11.012](https://doi.org/10.1016/j.biochi.2013.11.012)
+    
+6.  Sutro Biopharma (2018). Development of a scalable cell-free protein synthesis platform for industrial biomanufacturing. Biotechnology Journal 13, 1800040. [https://doi.org/10.1002/biot.201800040](https://doi.org/10.1002/biot.201800040)
+    
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Write the references in a code block as BibTeX
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sure! Here are the references in BibTeX format:
+
+`@article{carlson2012cell,  title={Cell-free protein synthesis: applications come of age},  author={Carlson, Erik D and Gan, Rui and Hodgman, C Eric and Jewett, Michael C},  journal={Biotechnology advances},  volume={30},  pages={1185--1194},  year={2012},  publisher={Elsevier},  doi={10.1016/j.biotechadv.2011.09.013}}@article{jewett2004mimicking,  title={Mimicking the Escherichia coli cytoplasmic environment activates long-lived and efficient cell-free protein synthesis},  author={Jewett, Michael C and Swartz, James R},  journal={Biotechnology and bioengineering},  volume={86},  number={1},  pages={19--26},  year={2004},  publisher={Wiley Online Library},  doi={10.1002/bit.20009}}@article{garamella2016all,  title={The All E. coli TX-TL Toolbox 2.0: A platform for cell-free synthetic biology},  author={Garamella, Jonathan and Marshall, Ryan and Rustad, Martha and Noireaux, Vincent and Vogel, J{\"o}rg},  journal={ACS synthetic biology},  volume={5},  number={4},  pages={344--355},  year={2016},  publisher={ACS Publications},  doi={10.1021/acssynbio.5b00296}}@article{kuruma2015pure,  title={The PURE system for the cell-free synthesis of membrane proteins},  author={Kuruma, Yutetsu and Ueda, Tetsuya},  journal={Nature protocols},  volume={10},  number={9},  pages={1328--1344},  year={2015},  publisher={Nature Publishing Group},  doi={10.1038/nprot.2015.085}}@article{caschera2014synthesis,  title={Synthesis of 2.3 mg/ml of protein with an all Escherichia coli cell-free transcription-translation system},  author={Caschera, Filippo and Noireaux, Vincent},  journal={Biochimie},  volume={99},  pages={162--168},  year={2014},  publisher={Elsevier},  doi={10.1016/j.biochi.2013.11.012}}@article{sutro2018development,  title={Development of a scalable cell-free protein synthesis platform for industrial biomanufacturing},  author={Sutro Biopharma},  journal={Biotechnology journal},  volume={13},  number={7},  pages={1800040},  year={2018},  publisher={Wiley Online Library},  doi={10.1002/biot.201800040}}`
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+From ChatGPT, designed with FancyGPT
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

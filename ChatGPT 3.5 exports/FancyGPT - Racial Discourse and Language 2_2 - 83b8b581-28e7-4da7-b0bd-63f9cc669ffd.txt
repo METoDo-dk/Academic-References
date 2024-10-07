@@ -1,0 +1,52 @@
+FancyGPT lets you beautify your threads, and store them for future reference or sharing with others.
+
+1.  Choose a style that you like
+2.  Add an optional snippet title
+3.  Exclude any messages that you don't want
+4.  Click and drag on ChatGPT messages to highlight content
+5.  Click "Save Image" to download your fancy snippet as an image
+6.  Click "Save PDF" to download your fancy snippet as a searchable PDF
+7.  Click "Save Text file" to download your fancy snippet as a text file (in markdown format)
+
+Note: This extension is reliant on ChatGPT's thread format and could break if things change.
+
+Don't show this info box each time
+
+### Racial Discourse and Language 2/2 - 83b8b581-28e7-4da7-b0bd-63f9cc669ffd
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+List six references on the topic "Racial Discourse and Language". Ensure that all sources included in the review are non-fictitious and have links for verification
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Certainly, here are six references on the topic of "Racial Discourse and Language":
+
+1.  Alim, H. S. (2016). "Raciolinguistics: How Language Shapes Our Ideas About Race". Oxford University Press. [https://global.oup.com/academic/product/raciolinguistics-9780190625696](https://global.oup.com/academic/product/raciolinguistics-9780190625696)
+    
+2.  Bonilla-Silva, E. (2017). "Racism Without Racists: Color-Blind Racism and the Persistence of Racial Inequality in the United States". Rowman & Littlefield Publishers. [https://rowman.com/ISBN/9781442276239/Racism-Without-Racists-Color-Blind-Racism-and-the-Persistence-of-Racial-Inequality-in-America](https://rowman.com/ISBN/9781442276239/Racism-Without-Racists-Color-Blind-Racism-and-the-Persistence-of-Racial-Inequality-in-America)
+    
+3.  Bucholtz, M., & Hall, K. (2004). "Language and identity". In A. Duranti (Ed.), "A Companion to Linguistic Anthropology" (pp. 369-394). Blackwell Publishing. [https://onlinelibrary.wiley.com/doi/book/10.1002/9780470996522](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470996522)
+    
+4.  Collins, P. H. (2015). "Intersectionality's Definitional Dilemmas". Annual Review of Sociology, 41, 1-20. [https://www.annualreviews.org/doi/abs/10.1146/annurev-soc-073014-112142](https://www.annualreviews.org/doi/abs/10.1146/annurev-soc-073014-112142)
+    
+5.  Hill, J. H. (2008). "Language, race, and white public space". American Anthropologist, 110(4), 439-449. [https://anthrosource.onlinelibrary.wiley.com/doi/abs/10.1111/j.1548-1433.2008.00053.x](https://anthrosource.onlinelibrary.wiley.com/doi/abs/10.1111/j.1548-1433.2008.00053.x)
+    
+6.  Smitherman, G. (2000). "Talkin and Testifyin: The Language of Black America". Wayne State University Press. [https://www.wsupress.wayne.edu/books/detail/talkin-and-testifyin](https://www.wsupress.wayne.edu/books/detail/talkin-and-testifyin)
+    
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Write the references in a code block as BibTeX
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Certainly! Here are the same six references in BibTeX format:
+
+`@book{alim2016raciolinguistics,  title={Raciolinguistics: How Language Shapes Our Ideas About Race},  author={Alim, H. Samy},  year={2016},  publisher={Oxford University Press}}@book{bonilla2017racism,  title={Racism Without Racists: Color-Blind Racism and the Persistence of Racial Inequality in the United States},  author={Bonilla-Silva, Eduardo},  year={2017},  publisher={Rowman \& Littlefield Publishers}}@incollection{bucholtz2004language,  title={Language and identity},  author={Bucholtz, Mary and Hall, Kira},  booktitle={A Companion to Linguistic Anthropology},  editor={Duranti, Alessandro},  pages={369--394},  year={2004},  publisher={Blackwell Publishing}}@article{collins2015intersectionality,  title={Intersectionality's Definitional Dilemmas},  author={Collins, Patricia Hill},  journal={Annual Review of Sociology},  volume={41},  pages={1--20},  year={2015},  publisher={Annual Reviews}}@article{hill2008language,  title={Language, race, and white public space},  author={Hill, Jane H.},  journal={American Anthropologist},  volume={110},  number={4},  pages={439--449},  year={2008},  publisher={Wiley}}@book{smitherman2000talkin,  title={Talkin and Testifyin: The Language of Black America},  author={Smitherman, Geneva},  year={2000},  publisher={Wayne State University Press}}`
+
+I hope this helps!
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+From ChatGPT, designed with FancyGPT
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

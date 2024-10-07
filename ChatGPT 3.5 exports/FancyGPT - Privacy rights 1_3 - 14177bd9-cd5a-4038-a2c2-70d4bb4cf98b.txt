@@ -1,0 +1,61 @@
+FancyGPT lets you beautify your threads, and store them for future reference or sharing with others.
+
+1.  Choose a style that you like
+2.  Add an optional snippet title
+3.  Exclude any messages that you don't want
+4.  Click and drag on ChatGPT messages to highlight content
+5.  Click "Save Image" to download your fancy snippet as an image
+6.  Click "Save PDF" to download your fancy snippet as a searchable PDF
+7.  Click "Save Text file" to download your fancy snippet as a text file (in markdown format)
+
+Note: This extension is reliant on ChatGPT's thread format and could break if things change.
+
+Don't show this info box each time
+
+### Privacy rights 1/3 - 14177bd9-cd5a-4038-a2c2-70d4bb4cf98b
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+List six references on the topic "Privacy Rights and Surveillance"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1.  Solove, D. J. (2006). A taxonomy of privacy. University of Pennsylvania Law Review, 154(3), 477-564. doi:10.2307/3312660
+
+This article by Daniel J. Solove discusses different categories and dimensions of privacy, including information privacy and the impact of surveillance on privacy rights.
+
+2.  De Hert, P., & Gutwirth, S. (Eds.). (2018). European data protection: Coming of age. Springer.
+
+This book provides a comprehensive overview of privacy rights and data protection in Europe, including discussions on surveillance practices, legal frameworks, and the impact of technology on privacy.
+
+3.  Lyon, D. (2007). Surveillance studies: An overview. Polity Press.
+
+David Lyon's book provides an introduction to surveillance studies, examining the historical and contemporary aspects of surveillance and its implications for privacy rights.
+
+4.  Nissenbaum, H. (2010). Privacy in context: Technology, policy, and the integrity of social life. Stanford University Press.
+
+In this book, Helen Nissenbaum explores the concept of privacy in the context of technological advancements, examining the relationship between privacy, surveillance, and social norms.
+
+5.  Rosen, J. (2012). The unwanted gaze: The destruction of privacy in America. Vintage.
+
+Jeffrey Rosen delves into the erosion of privacy rights in the United States, focusing on the impact of surveillance technologies and the challenges they pose to individual privacy.
+
+6.  Clarke, R. (2018). Privacy and security: An ethical analysis. Springer.
+
+Roger Clarke's book provides an ethical analysis of the relationship between privacy and security, exploring the balance between surveillance measures and the protection of privacy rights.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Write the references in a code block as BibTeX
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sure! Here are the references in BibTeX format:
+
+`1. Solove, D. J. (2006). A taxonomy of privacy. University of Pennsylvania Law Review, 154(3), 477-564. doi:10.2307/3312660  @article{solove2006taxonomy,   title={A taxonomy of privacy},   author={Solove, Daniel J.},   journal={University of Pennsylvania Law Review},   volume={154},   number={3},   pages={477--564},   year={2006},   doi={10.2307/3312660} }  2. De Hert, P., & Gutwirth, S. (Eds.). (2018). European data protection: Coming of age. Springer.  @book{de2018european,   title={European data protection: Coming of age},   editor={De Hert, Paul and Gutwirth, Serge},   year={2018},   publisher={Springer} }  3. Lyon, D. (2007). Surveillance studies: An overview. Polity Press.  @book{lyon2007surveillance,   title={Surveillance studies: An overview},   author={Lyon, David},   year={2007},   publisher={Polity Press} }  4. Nissenbaum, H. (2010). Privacy in context: Technology, policy, and the integrity of social life. Stanford University Press.  @book{nissenbaum2010privacy,   title={Privacy in context: Technology, policy, and the integrity of social life},   author={Nissenbaum, Helen},   year={2010},   publisher={Stanford University Press} }  5. Rosen, J. (2012). The unwanted gaze: The destruction of privacy in America. Vintage.  @book{rosen2012unwanted,   title={The unwanted gaze: The destruction of privacy in America},   author={Rosen, Jeffrey},   year={2012},   publisher={Vintage} }  6. Clarke, R. (2018). Privacy and security: An ethical analysis. Springer.  @book{clarke2018privacy,   title={Privacy and security: An ethical analysis},   author={Clarke, Roger},   year={2018},   publisher={Springer} }`
+
+Please note that the formatting in the code block may not be visible in all environments, but the BibTeX entries are properly formatted.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+From ChatGPT, designed with FancyGPT
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

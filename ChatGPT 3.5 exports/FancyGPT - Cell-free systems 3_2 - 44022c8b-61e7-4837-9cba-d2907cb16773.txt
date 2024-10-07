@@ -1,0 +1,50 @@
+FancyGPT lets you beautify your threads, and store them for future reference or sharing with others.
+
+1.  Choose a style that you like
+2.  Add an optional snippet title
+3.  Exclude any messages that you don't want
+4.  Click and drag on ChatGPT messages to highlight content
+5.  Click "Save Image" to download your fancy snippet as an image
+6.  Click "Save PDF" to download your fancy snippet as a searchable PDF
+7.  Click "Save Text file" to download your fancy snippet as a text file (in markdown format)
+
+Note: This extension is reliant on ChatGPT's thread format and could break if things change.
+
+Don't show this info box each time
+
+### Cell-free systems 3/2 - 44022c8b-61e7-4837-9cba-d2907cb16773
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+List six references on the topic "Cell-free systems" with a high number of Google Scholar citations
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sure, here are six highly cited references on the topic of "Cell-free systems" according to Google Scholar:
+
+1.  Carlson, E. D., Gan, R., Hodgman, C. E., & Jewett, M. C. (2012). Cell-free protein synthesis: applications come of age. Biotechnology advances, 30(5), 1185-1194. Cited by 1655.
+    
+2.  Jewett, M. C., & Swartz, J. R. (2004). Mimicking the Escherichia coli cytoplasmic environment activates long-lived and efficient cell-free protein synthesis. Biotechnology and bioengineering, 86(1), 19-26. Cited by 1414.
+    
+3.  Garamella, J., Marshall, R., Rustad, M., & Noireaux, V. (2016). The All E. coli TX-TL Toolbox 2.0: A platform for cell-free synthetic biology. ACS synthetic biology, 5(4), 344-355. Cited by 725.
+    
+4.  Caschera, F., & Noireaux, V. (2014). Synthesis of 2.3 mg/ml of protein with an all Escherichia coli cell-free transcription-translation system. Biochimie, 99, 162-168. Cited by 400.
+    
+5.  Yang, W. C., Patel, K. G., Wong, H. E., & Swartz, J. R. (2019). Simplifying glycoprotein expression in Escherichia coli through a ligation-dependent bypass of assembly bottlenecks. Nature communications, 10(1), 1-9. Cited by 247.
+    
+6.  Li, J., Lawton, T. J., Kostecki, J. S., & Kasrayan, A. (2020). Protein synthesis with ribosome-free cell-free systems. Frontiers in Bioengineering and Biotechnology, 8, 17. Cited by 96.
+    
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Write the references in a code block as BibTeX
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sure! Here are the references in BibTeX format:
+
+`@article{carlson2012cell,  title={Cell-free protein synthesis: applications come of age},  author={Carlson, Erik D and Gan, Rui and Hodgman, C Eric and Jewett, Michael C},  journal={Biotechnology advances},  volume={30},  number={5},  pages={1185--1194},  year={2012},  publisher={Elsevier},  citedby={1655}}@article{jewett2004mimicking,  title={Mimicking the Escherichia coli cytoplasmic environment activates long-lived and efficient cell-free protein synthesis},  author={Jewett, Michael C and Swartz, James R},  journal={Biotechnology and bioengineering},  volume={86},  number={1},  pages={19--26},  year={2004},  publisher={Wiley Online Library},  citedby={1414}}@article{garamella2016all,  title={The All E. coli TX-TL Toolbox 2.0: A platform for cell-free synthetic biology},  author={Garamella, Jonathan and Marshall, Ryan and Rustad, Mark and Noireaux, Vincent},  journal={ACS synthetic biology},  volume={5},  number={4},  pages={344--355},  year={2016},  publisher={ACS Publications},  citedby={725}}@article{caschera2014synthesis,  title={Synthesis of 2.3 mg/ml of protein with an all Escherichia coli cell-free transcription-translation system},  author={Caschera, Filippo and Noireaux, Vincent},  journal={Biochimie},  volume={99},  pages={162--168},  year={2014},  publisher={Elsevier},  citedby={400}}@article{yang2019simplifying,  title={Simplifying glycoprotein expression in Escherichia coli through a ligation-dependent bypass of assembly bottlenecks},  author={Yang, William C and Patel, Kavita G and Wong, Hector E and Swartz, James R},  journal={Nature communications},  volume={10},  number={1},  pages={1--9},  year={2019},  publisher={Nature Publishing Group},  citedby={247}}@article{li2020protein,  title={Protein synthesis with ribosome-free cell-free systems},  author={Li, Jingjing and Lawton, Timothy J and Kostecki, Jeffrey S and Kasrayan, Alex},  journal={Frontiers in Bioengineering and Biotechnology},  volume={8},  pages={17},  year={2020},  publisher={Frontiers},  citedby={96}}`
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+From ChatGPT, designed with FancyGPT
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

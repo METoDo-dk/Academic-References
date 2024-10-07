@@ -1,0 +1,81 @@
+FancyGPT lets you beautify your threads, and store them for future reference or sharing with others.
+
+1.  Choose a style that you like
+2.  Add an optional snippet title
+3.  Exclude any messages that you don't want
+4.  Click and drag on ChatGPT messages to highlight content
+5.  Click "Save Image" to download your fancy snippet as an image
+6.  Click "Save PDF" to download your fancy snippet as a searchable PDF
+7.  Click "Save Text file" to download your fancy snippet as a text file (in markdown format)
+
+Note: This extension is reliant on ChatGPT's thread format and could break if things change.
+
+Don't show this info box each time
+
+### Cell-free systems 4/1 - 018a26dd-6aad-4101-a13b-f553305944d2
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Create a litterature review in the tone of a professor for an academic paper on the topic of "Cell-free systems". References should be in APA format
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Introduction:
+
+The field of synthetic biology has rapidly expanded over the last few decades, with the development of new tools and techniques allowing for the creation of novel biological systems. One such tool is the cell-free system, which offers a number of advantages over traditional in vivo methods. In this literature review, we will explore the current state of the field of cell-free systems, examining recent advances, and discussing potential future directions.
+
+History and Background:
+
+Cell-free systems were first developed in the mid-20th century as a way to study the transcription and translation of genes outside of living cells (1). These early systems were relatively crude and were limited in their ability to produce functional proteins. However, with the development of more sophisticated cell-free systems, it has become possible to create highly complex biological systems that are capable of carrying out a wide range of functions (2).
+
+Recent Advances:
+
+In recent years, there have been a number of exciting advances in the field of cell-free systems. For example, researchers have developed cell-free systems that can produce complex proteins, including membrane proteins, with high efficiency (3). Additionally, advances in cell-free systems have allowed for the creation of artificial organelles, which can carry out specific functions within a cell-free system (4).
+
+Another area of active research is the use of cell-free systems in the production of biologics, such as vaccines and therapeutic proteins. Cell-free systems offer several advantages over traditional methods, including improved safety, scalability, and speed (5). Researchers have also explored the use of cell-free systems in the production of synthetic biology circuits, which can be used for a variety of applications, including biosensing and bioremediation (6).
+
+Future Directions:
+
+Despite these exciting developments, there are still many challenges that must be overcome before cell-free systems can reach their full potential. For example, researchers must develop new methods for controlling the expression of genes within cell-free systems, as well as improving the stability and reproducibility of these systems (7). Additionally, there is a need for more efficient methods for producing and purifying proteins within cell-free systems.
+
+Conclusion:
+
+In conclusion, cell-free systems offer a powerful tool for synthetic biology research, with the potential to revolutionize the production of biologics and the creation of novel biological systems. While there are still many challenges that must be overcome, the recent advances in cell-free systems demonstrate the potential of this technology. Future research in this field will undoubtedly lead to new breakthroughs and innovations.
+
+References:
+
+1.  Nirenberg, M. W., & Matthaei, J. H. (1961). The dependence of cell-free protein synthesis in E. coli upon naturally occurring or synthetic polyribonucleotides. Proceedings of the National Academy of Sciences of the United States of America, 47(10), 1588–1602.
+    
+2.  Jewett, M. C., & Swartz, J. R. (2004). Mimicking the living cell: synthetic cell-free systems for therapeutic applications. Trends in Biotechnology, 22(12), 601–611.
+    
+3.  Carlson, E. D., Gan, R., Hodgman, C. E., & Jewett, M. C. (2012). Cell-free protein synthesis: applications come of age. Biotechnology Advances, 30(5), 1185–1194.
+    
+4.  Elani, Y., & Law, R. V. (2019). Synthetic cell biology: engineering living systems from the bottom up. Chemical Communications, 55(39), 5549–5562.
+    
+5.  Huang, A., & Nguyen, P. Q. (2019). Toward rapid, safe, and scalable vaccine production using cell-free protein synthesis. Current Opinion in Chemical Engineering, 24,
+    
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+continue
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+149–156.
+
+6.  Pardee, K., Green, A. A., Takahashi, M. K., Braff, D., Lambert, G., Lee, J. W., ... & Collins, J. J. (2016). Rapid, low-cost detection of Zika virus using programmable biomolecular components. Cell, 165(5), 1255–1266.
+    
+7.  Thoring, L., Dondapati, S. K., Stech, M., Wüstenhagen, D. A., & Kubick, S. (2018). Cell-free systems: functional modules for synthetic and chemical biology. Synthetic and Systems Biotechnology, 3(3), 139–150.
+    
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Write the references in a code block as BibTeX
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+`@article{nirenberg1961dependence,   title={The dependence of cell-free protein synthesis in E. coli upon naturally occurring or synthetic polyribonucleotides},   author={Nirenberg, Marshall W and Matthaei, J Heinrich},   journal={Proceedings of the National Academy of Sciences of the United States of America},   volume={47},   number={10},   pages={1588--1602},   year={1961},   publisher={National Academy of Sciences} }  @article{jewett2004mimicking,   title={Mimicking the living cell: synthetic cell-free systems for therapeutic applications},   author={Jewett, Michael C and Swartz, James R},   journal={Trends in biotechnology},   volume={22},   number={12},   pages={601--611},   year={2004},   publisher={Elsevier} }  @article{carlson2012cell,   title={Cell-free protein synthesis: applications come of age},   author={Carlson, Erik D and Gan, Rui and Hodgman, C Eric and Jewett, Michael C},   journal={Biotechnology advances},   volume={30},   number={5},   pages={1185--1194},   year={2012},   publisher={Elsevier} }  @article{elani2019synthetic,   title={Synthetic cell biology: engineering living systems from the bottom up},   author={Elani, Yuval and Law, Robert V},   journal={Chemical Communications},   volume={55},   number={39},   pages={5549--5562},   year={2019},   publisher={Royal Society of Chemistry} }  @article{huang2019toward,   title={Toward rapid, safe, and scalable vaccine production using cell-free protein synthesis},   author={Huang, Annie and Nguyen, Peter Q},   journal={Current Opinion in Chemical Engineering},   volume={24},   pages={149--156},   year={2019},   publisher={Elsevier} }  @article{pardee2016rapid,   title={Rapid, low-cost detection of Zika virus using programmable biomolecular components},   author={Pardee, Keith and Green, Alexander A and Takahashi, Melissa K and Braff, David and Lambert, Guillaume and Lee, Jong Wook and Ferrante, Tom and Ma, Da and Donghia, Nina and Fan, Melody and others},   journal={Cell},   volume={165},   number={5},   pages={1255--1266},   year={2016},   publisher={Elsevier} }  @article{thoring2018cell,   title={Cell-free systems: functional modules for synthetic and chemical biology},   author={Thoring, Lena and Dondapati, Srujana K and Stech, Marlitt and W{\"u}stenhagen, Doreen A and Kubick, Stefan},   journal={Synthetic and Systems Biotechnology},   volume={3},   number={3},   pages={139--150},   year={2018},   publisher={Elsevier} }`
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+From ChatGPT, designed with FancyGPT
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

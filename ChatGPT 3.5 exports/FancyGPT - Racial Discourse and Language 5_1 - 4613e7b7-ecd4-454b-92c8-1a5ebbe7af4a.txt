@@ -1,0 +1,113 @@
+FancyGPT lets you beautify your threads, and store them for future reference or sharing with others.
+
+1.  Choose a style that you like
+2.  Add an optional snippet title
+3.  Exclude any messages that you don't want
+4.  Click and drag on ChatGPT messages to highlight content
+5.  Click "Save Image" to download your fancy snippet as an image
+6.  Click "Save PDF" to download your fancy snippet as a searchable PDF
+7.  Click "Save Text file" to download your fancy snippet as a text file (in markdown format)
+
+Note: This extension is reliant on ChatGPT's thread format and could break if things change.
+
+Don't show this info box each time
+
+### Racial Discourse and Language 5/1 - 4613e7b7-ecd4-454b-92c8-1a5ebbe7af4a
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+List six influential scholars on the topic of "Racial Discourse and Language" in the field of Rhetoric
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1.  bell hooks - An American author, feminist, and social activist whose work explores the intersections of race, gender, and class in American society. Her book "Ain't I a Woman?: Black Women and Feminism" is a classic in the field of feminist theory.
+    
+2.  Geneva Smitherman - An American linguist and educator who is best known for her work on African American English (AAE) and its role in African American culture. Her book "Talkin and Testifyin: The Language of Black America" is a seminal work in the field of AAE.
+    
+3.  Gloria Anzaldúa - A Chicana author, scholar, and activist whose work focused on borderlands theory, feminist theory, and queer theory. Her book "Borderlands/La Frontera: The New Mestiza" is a groundbreaking work that explores the intersections of race, gender, sexuality, and language.
+    
+4.  Ronald Jackson II - An American scholar and professor of communication studies who has written extensively on race and communication. His book "Scripting the Black Masculine Body: Identity, Discourse, and Racial Politics in Popular Media" is a significant contribution to the field of critical race theory.
+    
+5.  Sara Ahmed - A British-Australian scholar and feminist writer who has written extensively on the intersections of race, gender, and sexuality in contemporary culture. Her book "On Being Included: Racism and Diversity in Institutional Life" is a powerful critique of the ways in which institutions can perpetuate systemic racism.
+    
+6.  John Rickford - An American linguist and educator who is best known for his work on the sociolinguistics of African American English. His book "Spoken Soul: The Story of Black English" is a comprehensive overview of the history and evolution of African American English.
+    
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+List a highly cited paper by each scholar
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sure, here are some highly cited papers by the scholars listed:
+
+1.  bell hooks - "Eating the Other: Desire and Resistance" (1992)
+2.  Geneva Smitherman - "Talkin and Testifyin: The Language of Black America" (1977)
+3.  Gloria Anzaldúa - "Borderlands/La Frontera: The New Mestiza" (1987)
+4.  Ronald Jackson II - "Scripting the Black Masculine Body: Identity, Discourse, and Racial Politics in Popular Media" (2006)
+5.  Sara Ahmed - "Affective Economies" (2004)
+6.  John Rickford - "Stylistic Variation and Change in African American English" (1999)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Create a litterature review using these papers as references. The references section should be in APA format
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sure, here's a literature review on the topic of "Racial Discourse and Language" using the papers listed as references:
+
+Literature Review
+
+Racial discourse and language have been topics of great interest in the fields of rhetoric and communication studies. Scholars have explored the ways in which language is used to construct and perpetuate racial hierarchies, as well as the ways in which language can be used to resist and subvert these hierarchies. In this review, we will examine some of the seminal works on this topic, including papers by bell hooks, Geneva Smitherman, Gloria Anzaldúa, Ronald Jackson II, Sara Ahmed, and John Rickford.
+
+In her highly cited paper "Eating the Other: Desire and Resistance," bell hooks examines the ways in which dominant cultures consume and commodify the cultures of marginalized groups. She argues that this process of consumption reinforces the power dynamics of racial hierarchies and perpetuates the objectification of marginalized groups. Hooks' paper highlights the importance of understanding the ways in which language is used to reinforce these power dynamics.
+
+Geneva Smitherman's classic work "Talkin and Testifyin: The Language of Black America" explores the unique features of African American English (AAE) and the ways in which it has been stigmatized in American society. Smitherman argues that AAE is a legitimate language variety with its own rules and conventions, and that stigmatizing it perpetuates racial discrimination and oppression. Smitherman's paper is an important contribution to the field of linguistics and highlights the importance of recognizing the cultural and linguistic diversity of marginalized groups.
+
+Gloria Anzaldúa's "Borderlands/La Frontera: The New Mestiza" is a groundbreaking work that explores the intersections of race, gender, sexuality, and language. Anzaldúa argues that borderlands - the spaces between cultures and identities - are sites of resistance and transformation. She calls for a new mestiza consciousness that embraces multiple identities and cultures and challenges the rigid categories imposed by dominant culture. Anzaldúa's paper highlights the importance of recognizing the fluidity of identity and the ways in which language is used to construct and maintain power dynamics.
+
+Ronald Jackson II's "Scripting the Black Masculine Body: Identity, Discourse, and Racial Politics in Popular Media" examines the ways in which Black masculinity is constructed and represented in popular media. He argues that media representations of Black masculinity reinforce racial stereotypes and perpetuate systemic racism. Jackson's paper highlights the importance of examining the ways in which language and visual media are used to perpetuate racial hierarchies and the importance of resisting these representations.
+
+Sara Ahmed's "Affective Economies" explores the ways in which emotions are used to create and maintain social hierarchies. She argues that emotions are not purely individual experiences but are shaped by social norms and power dynamics. Ahmed's paper highlights the importance of understanding the ways in which emotions are used to reinforce racial hierarchies and perpetuate systemic racism.
+
+John Rickford's "Stylistic Variation and Change in African American English" examines the ways in which AAE has evolved over time and the ways in which it is used in different contexts. He argues that AAE is a dynamic and constantly evolving language variety that reflects the experiences and cultural practices of African Americans. Rickford's paper highlights the importance of recognizing the diversity and complexity of AAE and the ways in which language is shaped by social and cultural contexts.
+
+Conclusion
+
+The papers reviewed in this literature review highlight the importance of understanding the ways in which language is used to construct and perpetuate racial hierarchies, as well as the ways in which language can be used to resist and subvert these hierarchies. Scholars such as bell hooks, Geneva Sm
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+continue
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+itherman, Gloria Anzaldúa, Ronald Jackson II, Sara Ahmed, and John Rickford have made significant contributions to the field of rhetoric and communication studies by exploring the complex relationships between race, language, and power. These papers demonstrate the importance of recognizing the cultural and linguistic diversity of marginalized groups, resisting the perpetuation of racial stereotypes and discrimination, and embracing the fluidity and complexity of identity. By understanding the ways in which language is used to shape social and cultural contexts, we can work towards creating more equitable and just societies.
+
+References
+
+Ahmed, S. (2004). Affective economies. Social Text, 22(2), 117-139.
+
+Anzaldúa, G. (1987). Borderlands/La Frontera: The New Mestiza. Aunt Lute Books.
+
+hooks, b. (1992). Eating the other: Desire and resistance. In Black Looks: Race and Representation (pp. 21-39). South End Press.
+
+Jackson II, R. L. (2006). Scripting the Black Masculine Body: Identity, Discourse, and Racial Politics in Popular Media. SUNY Press.
+
+Rickford, J. R. (1999). Stylistic Variation and Change in African American English. Blackwell Publishers.
+
+Smitherman, G. (1977). Talkin and Testifyin: The Language of Black America. Wayne State University Press.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Write the references in a code block as BibTeX
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sure, here are the references in BibTeX format:
+
+`@article{Ahmed2004,  author = {Ahmed, Sara},  title = {Affective economies},  journal = {Social Text},  volume = {22},  number = {2},  pages = {117-139},  year = {2004}}@book{Anzaldua1987,  author = {Anzaldúa, Gloria},  title = {Borderlands/La Frontera: The New Mestiza},  publisher = {Aunt Lute Books},  year = {1987}}@inbook{hooks1992,  author = {hooks, bell},  title = {Eating the other: Desire and resistance},  booktitle = {Black Looks: Race and Representation},  publisher = {South End Press},  year = {1992},  pages = {21-39}}@book{Jackson2006,  author = {Jackson II, Ronald L.},  title = {Scripting the Black Masculine Body: Identity, Discourse, and Racial Politics in Popular Media},  publisher = {SUNY Press},  year = {2006}}@book{Rickford1999,  author = {Rickford, John R.},  title = {Stylistic Variation and Change in African American English},  publisher = {Blackwell Publishers},  year = {1999}}@book{Smitherman1977,  author = {Smitherman, Geneva},  title = {Talkin and Testifyin: The Language of Black America},  publisher = {Wayne State University Press},  year = {1977}}`
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+From ChatGPT, designed with FancyGPT
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

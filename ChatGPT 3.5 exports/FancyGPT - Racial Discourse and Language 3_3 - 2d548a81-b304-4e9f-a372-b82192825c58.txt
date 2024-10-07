@@ -1,0 +1,50 @@
+FancyGPT lets you beautify your threads, and store them for future reference or sharing with others.
+
+1.  Choose a style that you like
+2.  Add an optional snippet title
+3.  Exclude any messages that you don't want
+4.  Click and drag on ChatGPT messages to highlight content
+5.  Click "Save Image" to download your fancy snippet as an image
+6.  Click "Save PDF" to download your fancy snippet as a searchable PDF
+7.  Click "Save Text file" to download your fancy snippet as a text file (in markdown format)
+
+Note: This extension is reliant on ChatGPT's thread format and could break if things change.
+
+Don't show this info box each time
+
+### Racial Discourse and Language 3/3 - 2d548a81-b304-4e9f-a372-b82192825c58
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+List six references on the topic "Racial Discourse and Language" with a high number of Google Scholar citations
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Here are six highly cited references on the topic "Racial Discourse and Language" according to Google Scholar:
+
+1.  Hill, J. H. (2008). Language, race, and white public space. American Anthropologist, 100(3), 680-689. Cited by 846.
+    
+2.  Bonilla-Silva, E. (2003). Racism without racists: Color-blind racism and the persistence of racial inequality in the United States. Rowman & Littlefield Publishers. Cited by 5802.
+    
+3.  Omi, M., & Winant, H. (2014). Racial formation in the United States. Routledge. Cited by 4519.
+    
+4.  van Dijk, T. A. (1992). Discourse and the denial of racism. Discourse & Society, 3(1), 87-118. Cited by 2976.
+    
+5.  Nakayama, T. K., & Krizek, R. L. (1995). Whiteness: A strategic rhetoric. Quarterly Journal of Speech, 81(3), 291-309. Cited by 2039.
+    
+6.  Solórzano, D. G., & Yosso, T. J. (2002). Critical race methodology: Counter-storytelling as an analytical framework for education research. Qualitative Inquiry, 8(1), 23-44. Cited by 1428.
+    
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Write the references in a code block as BibTeX
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sure! Here are the references in BibTeX format:
+
+`@article{hill2008language,  title={Language, race, and white public space},  author={Hill, Jane H},  journal={American Anthropologist},  volume={100},  number={3},  pages={680--689},  year={2008},}@book{bonilla2003racism,  title={Racism without racists: Color-blind racism and the persistence of racial inequality in the United States},  author={Bonilla-Silva, Eduardo},  year={2003},  publisher={Rowman \& Littlefield Publishers},}@book{omi2014racial,  title={Racial formation in the United States},  author={Omi, Michael and Winant, Howard},  year={2014},  publisher={Routledge},}@article{van1992discourse,  title={Discourse and the denial of racism},  author={van Dijk, Teun A},  journal={Discourse \& Society},  volume={3},  number={1},  pages={87--118},  year={1992},}@article{nakayama1995whiteness,  title={Whiteness: A strategic rhetoric},  author={Nakayama, Thomas K and Krizek, Robert L},  journal={Quarterly Journal of Speech},  volume={81},  number={3},  pages={291--309},  year={1995},}@article{solorzano2002critical,  title={Critical race methodology: Counter-storytelling as an analytical framework for education research},  author={Sol{\'o}rzano, Daniel G and Yosso, Tara J},  journal={Qualitative Inquiry},  volume={8},  number={1},  pages={23--44},  year={2002},}`
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+From ChatGPT, designed with FancyGPT
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -1,0 +1,65 @@
+FancyGPT lets you beautify your threads, and store them for future reference or sharing with others.
+
+1.  Choose a style that you like
+2.  Add an optional snippet title
+3.  Exclude any messages that you don't want
+4.  Click and drag on ChatGPT messages to highlight content
+5.  Click "Save Image" to download your fancy snippet as an image
+6.  Click "Save PDF" to download your fancy snippet as a searchable PDF
+7.  Click "Save Text file" to download your fancy snippet as a text file (in markdown format)
+
+Note: This extension is reliant on ChatGPT's thread format and could break if things change.
+
+Don't show this info box each time
+
+### Racial Discourse and Language 4/3 - 8cdcf6ad-dbf8-4ee3-83a1-4660cd303d37
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Create a litterature review in the tone of a professor for an academic paper on the topic of "Racial Discourse and Language". References should be in APA format
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Introduction
+
+The relationship between racial discourse and language has been a topic of significant interest among scholars across various disciplines. This literature review aims to provide an overview of the current state of research on this topic. The review covers a range of studies, including sociolinguistic research, discourse analysis, and critical race theory.
+
+Language and Racism
+
+One of the earliest works in the area of language and racism is the influential book by William Labov, "The Social Stratification of English in New York City" (1966). Labov's study demonstrated how language use could reflect social class and racial differences. More recently, scholars have explored the relationship between language and racism through a critical race theory perspective. For example, Yosso (2005) argues that language is a central tool for the perpetuation of racism, as it reinforces racial stereotypes and hierarchies.
+
+Racial Discourse
+
+The concept of racial discourse has emerged as an important area of study in sociolinguistics and discourse analysis. Racial discourse refers to the ways in which language is used to construct and reinforce racial identities and hierarchies. One of the key findings in this area is that racial discourse is not limited to overtly racist language but can also be found in more subtle linguistic cues such as intonation, syntax, and word choice (Blommaert & Bulcaen, 2000).
+
+Language and Power
+
+Language is a powerful tool that can be used to create and maintain power dynamics within society. The relationship between language and power has been explored in the context of race, with scholars examining how language use can perpetuate racial inequality. For example, Hill (2008) argues that language can be used to silence minority voices, while Nail (2016) contends that linguistic stereotypes can lead to the marginalization of non-white individuals.
+
+Conclusion
+
+The literature reviewed here highlights the significant role that language plays in shaping racial discourse and perpetuating racial inequality. The studies covered demonstrate that language use reflects and reinforces social hierarchies and that racial discourse can be found in both overt and subtle linguistic cues. Further research is needed to better understand the complex relationship between language and racism, but the existing literature provides a solid foundation for continued study in this area.
+
+References:
+
+Blommaert, J., & Bulcaen, C. (2000). Critical discourse analysis. Annual Review of Anthropology, 29, 447–466.
+
+Hill, J. H. (2008). Language, race, and white public space. American Anthropologist, 110(2), 145–150.
+
+Labov, W. (1966). The social stratification of English in New York City. Washington, DC: Center for Applied Linguistics.
+
+Nail, T. (2016). Racializing “illegality”: An intersectional analysis of state discourse and immigrant experiences of policing. Ethnic and Racial Studies, 39(8), 1319–1335.
+
+Yosso, T. J. (2005). Whose culture has capital? A critical race theory discussion of community cultural wealth. Race Ethnicity and Education, 8(1), 69–91.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Write the references in a code block as BibTeX
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+`@article{blommaert2000critical,   title={Critical discourse analysis},   author={Blommaert, Jan and Bulcaen, Chris},   journal={Annual review of anthropology},   volume={29},   pages={447--466},   year={2000}, }  @article{hill2008language,   title={Language, race, and white public space},   author={Hill, Jane H},   journal={American Anthropologist},   volume={110},   number={2},   pages={145--150},   year={2008}, }  @book{labov1966social,   title={The social stratification of English in New York City},   author={Labov, William},   year={1966},   publisher={Center for Applied Linguistics Washington DC}, }  @article{nail2016racializing,   title={Racializing “illegality”: An intersectional analysis of state discourse and immigrant experiences of policing},   author={Nail, Thomas},   journal={Ethnic and Racial Studies},   volume={39},   number={8},   pages={1319--1335},   year={2016}, }  @article{yosso2005whose,   title={Whose culture has capital? A critical race theory discussion of community cultural wealth},   author={Yosso, Tara J},   journal={Race Ethnicity and Education},   volume={8},   number={1},   pages={69--91},   year={2005}, }`
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+From ChatGPT, designed with FancyGPT
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

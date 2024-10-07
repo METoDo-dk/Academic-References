@@ -1,0 +1,72 @@
+FancyGPT lets you beautify your threads, and store them for future reference or sharing with others.
+
+1.  Choose a style that you like
+2.  Add an optional snippet title
+3.  Exclude any messages that you don't want
+4.  Click and drag on ChatGPT messages to highlight content
+5.  Click "Save Image" to download your fancy snippet as an image
+6.  Click "Save PDF" to download your fancy snippet as a searchable PDF
+7.  Click "Save Text file" to download your fancy snippet as a text file (in markdown format)
+
+Note: This extension is reliant on ChatGPT's thread format and could break if things change.
+
+Don't show this info box each time
+
+### Privacy rights 1/2 - 14177bd9-cd5a-4038-a2c2-70d4bb4cf98b
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+List six references on the topic "Privacy Rights and Surveillance"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Certainly! Here are six references on the topic of "Privacy Rights and Surveillance":
+
+1.  Title: "The Right to Privacy"  
+    Author: Samuel Warren and Louis Brandeis  
+    Year: 1890  
+    Description: This seminal law review article, often cited as the foundation of privacy law in the United States, explores the concept of privacy and argues for its recognition as a legal right.
+    
+2.  Title: "1984"  
+    Author: George Orwell  
+    Year: 1949  
+    Description: A dystopian novel that depicts a totalitarian society where surveillance is pervasive. Although a work of fiction, it raises important questions about privacy, government surveillance, and the impact on individual freedom.
+    
+3.  Title: "The Transparent Society: Will Technology Force Us to Choose Between Privacy and Freedom?"  
+    Author: David Brin  
+    Year: 1998  
+    Description: In this book, Brin discusses the increasing availability of surveillance technologies and proposes a transparent society where everyone has access to information, aiming to balance privacy and transparency.
+    
+4.  Title: "Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World"  
+    Author: Bruce Schneier  
+    Year: 2015  
+    Description: Schneier explores the surveillance landscape in the digital age, discussing the implications of mass surveillance, data collection, and the erosion of privacy rights.
+    
+5.  Title: "The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power"  
+    Author: Shoshana Zuboff  
+    Year: 2019  
+    Description: Zuboff examines the rise of surveillance capitalism, where personal data is commodified for profit, and its impact on privacy, democracy, and individual autonomy.
+    
+6.  Title: "Privacy in the Age of Big Data: Recognizing Threats, Defending Your Rights, and Protecting Your Family"  
+    Author: Theresa Payton and Ted Claypoole  
+    Year: 2014  
+    Description: This book provides an overview of the challenges and risks posed by big data and offers practical advice for individuals on protecting their privacy in an increasingly connected world.
+    
+
+Please note that while these references provide valuable insights into the topic, the field of privacy rights and surveillance is constantly evolving. It is advisable to consult more recent literature and legal resources to stay up to date with current developments.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Write the references in a code block as BibTeX
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Certainly! Here are the references in BibTeX format:
+
+`@article{warren1890right,   title={The Right to Privacy},   author={Warren, Samuel and Brandeis, Louis},   year={1890} }  @book{orwell1984,   title={1984},   author={Orwell, George},   year={1949} }  @book{brin1998transparent,   title={The Transparent Society: Will Technology Force Us to Choose Between Privacy and Freedom?},   author={Brin, David},   year={1998} }  @book{schneier2015data,   title={Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World},   author={Schneier, Bruce},   year={2015} }  @book{zuboff2019age,   title={The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power},   author={Zuboff, Shoshana},   year={2019} }  @book{payton2014privacy,   title={Privacy in the Age of Big Data: Recognizing Threats, Defending Your Rights, and Protecting Your Family},   author={Payton, Theresa and Claypoole, Ted},   year={2014} }`
+
+Please note that the above BibTeX entries are based on the information provided and may require additional details such as publisher and location if available.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+From ChatGPT, designed with FancyGPT
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

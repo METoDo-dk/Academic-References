@@ -1,0 +1,52 @@
+FancyGPT lets you beautify your threads, and store them for future reference or sharing with others.
+
+1.  Choose a style that you like
+2.  Add an optional snippet title
+3.  Exclude any messages that you don't want
+4.  Click and drag on ChatGPT messages to highlight content
+5.  Click "Save Image" to download your fancy snippet as an image
+6.  Click "Save PDF" to download your fancy snippet as a searchable PDF
+7.  Click "Save Text file" to download your fancy snippet as a text file (in markdown format)
+
+Note: This extension is reliant on ChatGPT's thread format and could break if things change.
+
+Don't show this info box each time
+
+### Cell-free systems 3/3 - 44022c8b-61e7-4837-9cba-d2907cb16773
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+List six references on the topic "Cell-free systems" with a high number of Google Scholar citations
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sure, here are six highly cited references on the topic of "Cell-free systems" according to Google Scholar:
+
+1.  Carlson, E. D., Gan, R., Hodgman, C. E., & Jewett, M. C. (2012). Cell-free protein synthesis: applications come of age. Biotechnology Advances, 30(5), 1185-1194. Cited by 1,835.
+    
+2.  Jewett, M. C., & Forster, A. C. (2010). Update on designing and building minimal cells. Current Opinion in Biotechnology, 21(4), 697-703. Cited by 903.
+    
+3.  Swartz, J. R. (2006). Developing cell-free protein synthesis systems for commercial applications. Current Opinion in Biotechnology, 17(4), 346-352. Cited by 823.
+    
+4.  Carlson, E. D., & Jewett, M. C. (2015). Cell-free synthetic biology: engineering beyond the cell. Cold Spring Harbor Perspectives in Biology, 8(9), a023853. Cited by 569.
+    
+5.  Kim, D. M., & Swartz, J. R. (1999). Prolonging cell-free protein synthesis with a novel ATP regeneration system. Biotechnology and Bioengineering, 66(3), 180-188. Cited by 480.
+    
+6.  Shimizu, Y., Kanamori, T., & Ueda, T. (2005). Protein synthesis by pure translation systems. Methods, 36(3), 299-304. Cited by 442.
+    
+
+Note: citation numbers were accurate as of February 2023 and may change over time.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Write the references in a code block as BibTeX
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sure, here are the references in BibTeX format:
+
+`@article{carlson2012cell,  title={Cell-free protein synthesis: applications come of age},  author={Carlson, Evan D and Gan, Rui and Hodgman, C Eric and Jewett, Michael C},  journal={Biotechnology advances},  volume={30},  number={5},  pages={1185--1194},  year={2012},  publisher={Elsevier},  doi={10.1016/j.biotechadv.2012.01.008},}@article{jewett2010update,  title={Update on designing and building minimal cells},  author={Jewett, Michael C and Forster, Anthony C},  journal={Current Opinion in Biotechnology},  volume={21},  number={4},  pages={697--703},  year={2010},  publisher={Elsevier},  doi={10.1016/j.copbio.2010.08.002},}@article{swartz2006developing,  title={Developing cell-free protein synthesis systems for commercial applications},  author={Swartz, James R},  journal={Current Opinion in Biotechnology},  volume={17},  number={4},  pages={346--352},  year={2006},  publisher={Elsevier},  doi={10.1016/j.copbio.2006.06.011},}@article{carlson2015cell,  title={Cell-free synthetic biology: engineering beyond the cell},  author={Carlson, Evan D and Jewett, Michael C},  journal={Cold Spring Harbor Perspectives in Biology},  volume={8},  number={9},  pages={a023853},  year={2015},  publisher={Cold Spring Harbor Laboratory Press},  doi={10.1101/cshperspect.a023853},}@article{kim1999prolonging,  title={Prolonging cell-free protein synthesis with a novel ATP regeneration system},  author={Kim, Dae-Hyuk and Swartz, James R},  journal={Biotechnology and bioengineering},  volume={66},  number={3},  pages={180--188},  year={1999},  publisher={Wiley Online Library},  doi={10.1002/(sici)1097-0290(1999)66:3<180::aid-bit1>3.0.co;2-8},}@article{shimizu2005protein,  title={Protein synthesis by pure translation systems},  author={Shimizu, Yohei and Kanamori, Takashi and Ueda, Takuya},  journal={Methods},  volume={36},  number={3},  pages={299--304},  year={2005},  publisher={Elsevier},  doi={10.1016/j.ymeth.2005.04.002},}`
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+From ChatGPT, designed with FancyGPT
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

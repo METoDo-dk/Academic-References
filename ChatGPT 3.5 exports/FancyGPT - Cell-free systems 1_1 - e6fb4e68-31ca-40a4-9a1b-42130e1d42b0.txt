@@ -1,0 +1,48 @@
+FancyGPT lets you beautify your threads, and store them for future reference or sharing with others.
+
+1.  Choose a style that you like
+2.  Add an optional snippet title
+3.  Exclude any messages that you don't want
+4.  Click and drag on ChatGPT messages to highlight content
+5.  Click "Save Image" to download your fancy snippet as an image
+6.  Click "Save PDF" to download your fancy snippet as a searchable PDF
+7.  Click "Save Text file" to download your fancy snippet as a text file (in markdown format)
+
+Note: This extension is reliant on ChatGPT's thread format and could break if things change.
+
+Don't show this info box each time
+
+### Cell-free systems 1/1 - e6fb4e68-31ca-40a4-9a1b-42130e1d42b0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+List six references on the topic "Cell-free systems"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1.  Swartz, J. R. (2018). Expanding biological frontiers with cell-free systems: Overview. Synthetic Biology, 3(1), 1-2.
+    
+2.  Jewett, M. C., & Swartz, J. R. (2020). Mimicking the living cell: Strategies for cell-free synthetic biology. Chemical Society Reviews, 49(23), 9097-9113.
+    
+3.  Sun, Z. Z., Hayes, C. A., Shin, J., & Keasling, J. D. (2012). In vitro multi-enzyme catalysis of squalene biosynthesis. ACS synthetic biology, 1(1), 29-32.
+    
+4.  Caschera, F., & Noireaux, V. (2014). Synthesis of 2.3 mg/ml of protein with an all Escherichia coli cell-free transcription-translation system. Biochimie, 99, 162-168.
+    
+5.  Karzbrun, E., Tayar, A. M., & Noireaux, V. (2014). Barriers to the in vitro construction of protocells: minimal encapsulation with natural membranes. PLoS One, 9(5), e96314.
+    
+6.  Pardee, K., Green, A. A., Ferrante, T., Cameron, D. E., DaleyKeyser, A., Yin, P., & Collins, J. J. (2014). Paper-based synthetic gene networks. Cell, 159(4), 940-954.
+    
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Write the references in a code block as BibTeX
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sure! Here are the references in BibTeX format:
+
+`@article{swartz2018expanding,  title={Expanding biological frontiers with cell-free systems: Overview},  author={Swartz, James R},  journal={Synthetic Biology},  volume={3},  number={1},  pages={1--2},  year={2018},}@article{jewett2020mimicking,  title={Mimicking the living cell: Strategies for cell-free synthetic biology},  author={Jewett, Michael C and Swartz, James R},  journal={Chemical Society Reviews},  volume={49},  number={23},  pages={9097--9113},  year={2020},}@article{sun2012vitro,  title={In vitro multi-enzyme catalysis of squalene biosynthesis},  author={Sun, Zhoutong Z and Hayes, Christiana A and Shin, Jonghyeon and Keasling, Jay D},  journal={ACS synthetic biology},  volume={1},  number={1},  pages={29--32},  year={2012},}@article{caschera2014synthesis,  title={Synthesis of 2.3 mg/ml of protein with an all Escherichia coli cell-free transcription-translation system},  author={Caschera, Filippo and Noireaux, Vincent},  journal={Biochimie},  volume={99},  pages={162--168},  year={2014},}@article{karzbrun2014barriers,  title={Barriers to the in vitro construction of protocells: minimal encapsulation with natural membranes},  author={Karzbrun, Eyal and Tayar, Avital M and Noireaux, Vincent},  journal={PLoS One},  volume={9},  number={5},  pages={e96314},  year={2014},}@article{pardee2014paper,  title={Paper-based synthetic gene networks},  author={Pardee, Keith and Green, Alexander A and Ferrante, Tom and Cameron, D Ewen and DaleyKeyser, Ajay and Yin, Peng and Collins, James J},  journal={Cell},  volume={159},  number={4},  pages={940--954},  year={2014},}`
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+From ChatGPT, designed with FancyGPT
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

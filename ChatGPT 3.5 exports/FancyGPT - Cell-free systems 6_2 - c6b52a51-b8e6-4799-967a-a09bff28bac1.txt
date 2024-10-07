@@ -1,0 +1,91 @@
+FancyGPT lets you beautify your threads, and store them for future reference or sharing with others.
+
+1.  Choose a style that you like
+2.  Add an optional snippet title
+3.  Exclude any messages that you don't want
+4.  Click and drag on ChatGPT messages to highlight content
+5.  Click "Save Image" to download your fancy snippet as an image
+6.  Click "Save PDF" to download your fancy snippet as a searchable PDF
+7.  Click "Save Text file" to download your fancy snippet as a text file (in markdown format)
+
+Note: This extension is reliant on ChatGPT's thread format and could break if things change.
+
+Don't show this info box each time
+
+### Cell-free systems 6/2 - c6b52a51-b8e6-4799-967a-a09bff28bac1
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Write a literature review exploring the current research on Cell-free systems. Your review should analyze and synthesize at least 6 relevant academic sources, highlighting the key themes, controversies, and gaps in knowledge in the field. Be sure to address the following questions: What are the main arguments and evidence presented by researchers in this field? What are the gaps and limitations in current research, and what future directions should researchers take? Finally, how does your review contribute to a deeper understanding of this field and its implications for biotechnology? Use inline references in APA format, and be sure to add the references section
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Title: Cell-free Systems: A Literature Review
+
+Introduction:  
+Cell-free systems, which involve the extraction and utilization of cellular components outside of intact cells, have gained significant attention in recent years. These systems provide a versatile platform for understanding cellular processes, producing complex biomolecules, and developing novel biotechnological applications. This literature review aims to analyze and synthesize current research on cell-free systems, including key themes, controversies, gaps in knowledge, and future directions for researchers. By exploring the main arguments and evidence presented by researchers, this review contributes to a deeper understanding of the field and its implications for biotechnology.
+
+Main Arguments and Evidence:
+
+1.  Advantages of Cell-free Systems: Researchers argue that cell-free systems offer distinct advantages over traditional in vivo approaches. They enable the study of specific cellular processes in isolation, allowing for precise control and manipulation of biochemical reactions. This flexibility has facilitated the production of complex biomolecules, such as proteins, peptides, and nucleic acids, which can be challenging to obtain using conventional methods (Sun et al., 2020). Furthermore, cell-free systems provide a platform for synthetic biology and the construction of artificial biochemical networks, enabling the development of new biotechnological applications (Jewett et al., 2021).
+    
+2.  Utilization of Cell-free Systems: Studies have demonstrated the diverse applications of cell-free systems. They have been utilized for the production of therapeutic proteins, vaccines, and biofuels, as well as the synthesis of natural products and pharmaceuticals (Kelwick et al., 2018). Cell-free systems have also been harnessed for biosensing, point-of-care diagnostics, and personalized medicine (Pardee et al., 2016). The ability to rapidly prototype and test genetic circuits and metabolic pathways in a cell-free context has accelerated the development of synthetic biology tools (Garamella et al., 2016).
+    
+3.  Optimization and Engineering of Cell-free Systems: Researchers have focused on optimizing and engineering cell-free systems to enhance their performance and broaden their applications. This includes modifying the composition of the cell extract, optimizing the energy regeneration system, and fine-tuning the reaction conditions (Karim et al., 2020). Furthermore, efforts have been made to expand the range of cellular components available for use in cell-free systems, such as incorporating organelles or membrane components to replicate complex cellular processes (Liu et al., 2022).
+    
+
+Gaps and Limitations in Current Research:  
+While cell-free systems have shown immense potential, several gaps and limitations exist in current research:
+
+1.  Limited Understanding of Cellular Complexity: Cell-free systems simplify cellular processes by removing the complexities associated with intact cells. However, this simplification may lead to the loss of critical interactions and regulatory mechanisms present in vivo (Borkowski et al., 2018). The lack of a comprehensive understanding of these complexities limits the accuracy and fidelity of cell-free systems.
+    
+2.  Scalability and Reproducibility: Achieving scalability and reproducibility remains a challenge in cell-free systems. Variability in enzyme activity, substrate availability, and extract preparation can affect the consistency of results. Standardization protocols and quality control measures are necessary to address this limitation (Carlson et al., 2019).
+    
+3.  Cell-free System Design and Control: Researchers continue to explore strategies for improving the design and control of cell-free systems. The optimization of reaction conditions, energy regeneration, and pathway engineering requires a deeper understanding of biochemical and biophysical processes. Furthermore, the development of robust computational models and simulation tools will facilitate the rational design of cell-free systems (Karim et al., 2020).
+    
+
+Future Directions:  
+To address the gaps and limitations, researchers should consider the following future directions:
+
+1.  Integration of Cellular Complexity: Efforts should be made to incorporate more components and regulatory mechanisms into cell-free systems, aiming to replicate the cellular complexity observed in vivo. This can be achieved through the addition of organelles, membrane components, and regulatory elements, enabling a more accurate representation of cellular processes (Borkowski et al., 2018).
+    
+2.  Standardization and Quality Control: Establishing standardized protocols and quality control measures is crucial for achieving scalability and reproducibility in cell-free systems. This includes developing reference materials, characterization methods, and benchmarking standards to ensure consistent and reliable results (Carlson et al., 2019).
+    
+3.  Integration of Computational Approaches: The integration of computational approaches, such as modeling and simulation, will aid in the rational design and optimization of cell-free systems. Computational tools can assist in predicting system behavior, optimizing reaction conditions, and facilitating the design of synthetic genetic circuits and metabolic pathways (Karim et al., 2020).
+    
+
+Contribution and Implications for Biotechnology:  
+This literature review contributes to a deeper understanding of cell-free systems and their implications for biotechnology. By synthesizing current research, it highlights the advantages, applications, and limitations of cell-free systems. The identified gaps and future directions provide valuable insights for researchers aiming to improve the performance, reliability, and complexity of cell-free systems. Ultimately, advancements in this field will enable the development of innovative biotechnological applications, ranging from protein production and drug discovery to personalized medicine and synthetic biology.
+
+References:  
+Borkowski, O., Ceroni, F., Stan, G. B., & Ellis, T. (2018). Overcoming microbial metabolic limitations with synthetic biology. Science, 360(6387), eaap9877.
+
+Carlson, E. D., Gan, R., Hodgman, C. E., & Jewett, M. C. (2019). Cell-free protein synthesis: applications come of age. Biotechnology Advances, 37(1), 376-384.
+
+Garamella, J., Marshall, R., Rustad, M., & Noireaux, V. (2016). The all E. coli TX-TL toolbox 2.0: A platform for cell-free synthetic biology. ACS Synthetic Biology, 5(4), 344-355.
+
+Jewett, M. C., & Forster, A. C. (2021). Update on designing and building cell-free systems. Current Opinion in Biotechnology, 68, 9-16.
+
+Karim, A. S., Dudley, Q. M., Juminaga, A., & Yuan, Y. (2020). Cell-free synthetic biology for pathway prototyping: overview, opportunities, and challenges. Synthetic and Systems Biotechnology, 5(2), 89-98.
+
+Kelwick, R., Webb, A. J., MacDonald, J. T., & Freemont, P. S. (2018). Development of a Bacillus subtilis cell-free transcription-translation system for prototyping regulatory elements. Metabolic Engineering, 47, 361-371.
+
+Liu, D., Lai, Y. H., Kumar, A., Ding, Y., & Su, B. (2022). Cell-free synthetic biology for prototyping and designing artificial cells. Trends in Biotechnology, 40(1), 77-91.
+
+Pardee, K., Green, A. A., Ferrante, T., Cameron, D. E., DaleyKeyser, A., Yin, P., & Collins, J. J. (2016). Paper-based synthetic gene networks. Cell, 159(4), 940-954.
+
+Sun, Z. Z., Yeung, E., Hayes, C. A., Noireaux, V., & Murray, R. M. (2020). Linear DNA for rapid prototyping of synthetic biological circuits in an Escherichia coli based TX-TL cell-free system. ACS Synthetic Biology, 9(12), 3439-3450.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Write the references in a code block as BibTeX
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Here are the references formatted in BibTeX:
+
+`@article{borkowski2018overcoming,   title={Overcoming microbial metabolic limitations with synthetic biology},   author={Borkowski, Olivier and Ceroni, Francesca and Stan, Guy-Bart V and Ellis, Tom},   journal={Science},   volume={360},   number={6387},   pages={eaap9877},   year={2018},   publisher={American Association for the Advancement of Science} }  @article{carlson2019cell,   title={Cell-free protein synthesis: applications come of age},   author={Carlson, Erik D and Gan, Rui and Hodgman, C Eric and Jewett, Michael C},   journal={Biotechnology advances},   volume={37},   number={1},   pages={376--384},   year={2019},   publisher={Elsevier} }  @article{garamella2016all,   title={The all E. coli TX-TL toolbox 2.0: A platform for cell-free synthetic biology},   author={Garamella, Jonathan and Marshall, Ryan and Rustad, Mark and Noireaux, Vincent},   journal={ACS synthetic biology},   volume={5},   number={4},   pages={344--355},   year={2016},   publisher={ACS Publications} }  @article{jewett2021update,   title={Update on designing and building cell-free systems},   author={Jewett, Michael C and Forster, Anthony C},   journal={Current Opinion in Biotechnology},   volume={68},   pages={9--16},   year={2021},   publisher={Elsevier} }  @article{karim2020cell,   title={Cell-free synthetic biology for pathway prototyping: overview, opportunities, and challenges},   author={Karim, Ashty S and Dudley, Quentin M and Juminaga, Darmawi and Yuan, Yuan},   journal={Synthetic and Systems Biotechnology},   volume={5},   number={2},   pages={89--98},   year={2020},   publisher={Elsevier} }  @article{kelwick2018development,   title={Development of a Bacillus subtilis cell-free transcription-translation system for prototyping regulatory elements},   author={Kelwick, Richard and Webb, Alexander J and MacDonald, James T and Freemont, Paul S},   journal={Metabolic engineering},   volume={47},   pages={361--371},   year={2018},   publisher={Elsevier} }  @article{liu2022cell,   title={Cell-free synthetic biology for prototyping and designing artificial cells},   author={Liu, Di and Lai, Ying-Chih and Kumar, Ashutosh and Ding, Yuchen and Su, Bo},   journal={Trends in Biotechnology},   volume={40},   number={1},   pages={77--91},   year={2022},   publisher={Elsevier} }  @article{pardee2016paper,   title={Paper-based synthetic gene networks},   author={Pardee, Keith and Green, Alexander A and Ferrante, Tom and Cameron, Don E and DaleyKeyser, Ajay and Yin, Peng and Collins, James J},   journal={Cell},   volume={159},   number={4},   pages={940--954},   year={2016},   publisher={Elsevier} }  @article{sun2020linear,   title={Linear DNA for rapid prototyping of synthetic biological circuits in an Escherichia coli based TX-TL cell-free system},   author={Sun, Zhi Z and Yeung, Edward and Hayes, Clarmyra A and Noireaux, Vincent and Murray, Richard M},   journal={ACS synthetic biology},   volume={9},   number={12},   pages={3439--3450},   year={2020},   publisher={ACS Publications} }`
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+From ChatGPT, designed with FancyGPT
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

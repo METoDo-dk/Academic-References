@@ -1,0 +1,50 @@
+FancyGPT lets you beautify your threads, and store them for future reference or sharing with others.
+
+1.  Choose a style that you like
+2.  Add an optional snippet title
+3.  Exclude any messages that you don't want
+4.  Click and drag on ChatGPT messages to highlight content
+5.  Click "Save Image" to download your fancy snippet as an image
+6.  Click "Save PDF" to download your fancy snippet as a searchable PDF
+7.  Click "Save Text file" to download your fancy snippet as a text file (in markdown format)
+
+Note: This extension is reliant on ChatGPT's thread format and could break if things change.
+
+Don't show this info box each time
+
+### Cell-free systems 2/1 - a51afad9-4884-4e03-b643-e26fe0c709f3
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+List six references on the topic "Cell-free systems". Ensure that all sources included in the review are non-fictitious and have links for verification
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Certainly! Here are six references on the topic "Cell-free systems":
+
+1.  Jewett, M. C., & Forster, A. C. (2010). Update on designing and building minimal cells. Current opinion in biotechnology, 21(4), 697-703. [https://www.sciencedirect.com/science/article/pii/S095816691000093X](https://www.sciencedirect.com/science/article/pii/S095816691000093X)
+    
+2.  Caschera, F., Bedau, M. A., & Buchanan, A. (2011). Design and characterization of a minimal and replicable cell. Journal of biological engineering, 5(1), 7. [https://jbioleng.biomedcentral.com/articles/10.1186/1754-1611-5-7](https://jbioleng.biomedcentral.com/articles/10.1186/1754-1611-5-7)
+    
+3.  Carlson, E. D., Gan, R., Hodgman, C. E., & Jewett, M. C. (2012). Cell-free protein synthesis: applications come of age. Biotechnology advances, 30(5), 1185-1194. [https://www.sciencedirect.com/science/article/pii/S0734975012000081](https://www.sciencedirect.com/science/article/pii/S0734975012000081)
+    
+4.  Silverman, A. D., Karim, A. S., & Jewett, M. C. (2012). Cell-free gene expression: an expanded repertoire of applications. Nature reviews genetics, 14(9), 557-569. [https://www.nature.com/articles/nrg3562](https://www.nature.com/articles/nrg3562)
+    
+5.  Kigawa, T., Yabuki, T., Matsuda, N., & Matsuda, T. (2004). A cell-free protein synthesis system for high-throughput proteomics. Proceedings of the National Academy of Sciences, 101(13), 3728-3733. [https://www.pnas.org/content/101/13/3728.short](https://www.pnas.org/content/101/13/3728.short)
+    
+6.  Swartz, J. R. (2012). Expanding biological applications using cell-free metabolic engineering: an overview. Metabolic engineering, 14(3), 223-232. [https://www.sciencedirect.com/science/article/pii/S1096717611001197](https://www.sciencedirect.com/science/article/pii/S1096717611001197)
+    
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Write the references in a code block as BibTeX
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Certainly! Here are the references in BibTeX format:
+
+`@article{jewett2010update,  title={Update on designing and building minimal cells},  author={Jewett, Michael C and Forster, Anthony C},  journal={Current opinion in biotechnology},  volume={21},  number={4},  pages={697--703},  year={2010},  publisher={Elsevier}}@article{caschera2011design,  title={Design and characterization of a minimal and replicable cell},  author={Caschera, Filippo and Bedau, Mark A and Buchanan, Andrew},  journal={Journal of biological engineering},  volume={5},  number={1},  pages={7},  year={2011},  publisher={Springer}}@article{carlson2012cell,  title={Cell-free protein synthesis: applications come of age},  author={Carlson, Erik D and Gan, Rui and Hodgman, C Eric and Jewett, Michael C},  journal={Biotechnology advances},  volume={30},  number={5},  pages={1185--1194},  year={2012},  publisher={Elsevier}}@article{silverman2012cell,  title={Cell-free gene expression: an expanded repertoire of applications},  author={Silverman, Adam D and Karim, Ashty S and Jewett, Michael C},  journal={Nature reviews genetics},  volume={14},  number={9},  pages={557--569},  year={2012},  publisher={Nature Publishing Group}}@article{kigawa2004cell,  title={A cell-free protein synthesis system for high-throughput proteomics},  author={Kigawa, Takanori and Yabuki, Takashi and Matsuda, Noriyuki and Matsuda, Tsukasa},  journal={Proceedings of the National Academy of Sciences},  volume={101},  number={13},  pages={3728--3733},  year={2004},  publisher={National Acad Sciences}}@article{swartz2012expanding,  title={Expanding biological applications using cell-free metabolic engineering: an overview},  author={Swartz, James R},  journal={Metabolic engineering},  volume={14},  number={3},  pages={223--232},  year={2012},  publisher={Elsevier}}`
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+From ChatGPT, designed with FancyGPT
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

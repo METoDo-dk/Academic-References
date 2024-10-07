@@ -1,0 +1,46 @@
+FancyGPT lets you beautify your threads, and store them for future reference or sharing with others.
+
+1.  Choose a style that you like
+2.  Add an optional snippet title
+3.  Exclude any messages that you don't want
+4.  Click and drag on ChatGPT messages to highlight content
+5.  Click "Save Image" to download your fancy snippet as an image
+6.  Click "Save PDF" to download your fancy snippet as a searchable PDF
+7.  Click "Save Text file" to download your fancy snippet as a text file (in markdown format)
+
+Note: This extension is reliant on ChatGPT's thread format and could break if things change.
+
+Don't show this info box each time
+
+### Cell-free systems 1/2 - e6fb4e68-31ca-40a4-9a1b-42130e1d42b0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+List six references on the topic "Cell-free systems"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1.  Jewett, M. C., & Swartz, J. R. (2004). Mimicking the Escherichia coli cytoplasmic environment activates long-lived and efficient cell-free protein synthesis. Biotechnology and bioengineering, 86(1), 19-26.
+    
+2.  Carlson, E. D., Gan, R., Hodgman, C. E., & Jewett, M. C. (2012). Cell-free protein synthesis: applications come of age. Biotechnology advances, 30(5), 1185-1194.
+    
+3.  Kim, D. M., Swartz, J. R., & Pappu, R. V. (2019). Biophysical principles of cell-free protein synthesis in vitro: insights from single-molecule studies. ACS chemical biology, 14(3), 309-322.
+    
+4.  Kuruma, Y., & Ueda, T. (2015). The PURE system for the cell-free synthesis of membrane proteins. Nature protocols, 10(9), 1328-1344.
+    
+5.  Liu, D. V., Zawada, J. F., Swartz, J. R., & Chen, Y. (2021). The past, present, and future of cell-free protein synthesis. Trends in biotechnology, 39(7), 710-725.
+    
+6.  Shin, J., Noireaux, V., & Bécavin, C. (2019). Probing the limits of genetic recoding in essential genes. Scientific reports, 9(1), 1-9.
+    
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Write the references in a code block as BibTeX
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+`@article{jewett2004mimicking,   title={Mimicking the Escherichia coli cytoplasmic environment activates long-lived and efficient cell-free protein synthesis},   author={Jewett, Michael C and Swartz, James R},   journal={Biotechnology and bioengineering},   volume={86},   number={1},   pages={19--26},   year={2004},   publisher={Wiley Online Library} }  @article{carlson2012cell,   title={Cell-free protein synthesis: applications come of age},   author={Carlson, Erik D and Gan, Rui and Hodgman, C Eric and Jewett, Michael C},   journal={Biotechnology advances},   volume={30},   number={5},   pages={1185--1194},   year={2012},   publisher={Elsevier} }  @article{kim2019biophysical,   title={Biophysical principles of cell-free protein synthesis in vitro: insights from single-molecule studies},   author={Kim, Dong-Myung and Swartz, James R and Pappu, Rohit V},   journal={ACS chemical biology},   volume={14},   number={3},   pages={309--322},   year={2019},   publisher={ACS Publications} }  @article{kuruma2015pure,   title={The PURE system for the cell-free synthesis of membrane proteins},   author={Kuruma, Yutetsu and Ueda, Toshimasa},   journal={Nature protocols},   volume={10},   number={9},   pages={1328--1344},   year={2015},   publisher={Nature Publishing Group} }  @article{liu2021past,   title={The past, present, and future of cell-free protein synthesis},   author={Liu, David V and Zawada, Justin F and Swartz, James R and Chen, Yit-Heng},   journal={Trends in biotechnology},   volume={39},   number={7},   pages={710--725},   year={2021},   publisher={Elsevier} }  @article{shin2019probing,   title={Probing the limits of genetic recoding in essential genes},   author={Shin, Jonghyeon and Noireaux, Vincent and B{\'e}cavin, Christophe},   journal={Scientific reports},   volume={9},   number={1},   pages={1--9},   year={2019},   publisher={Nature Publishing Group} }`
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+From ChatGPT, designed with FancyGPT
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

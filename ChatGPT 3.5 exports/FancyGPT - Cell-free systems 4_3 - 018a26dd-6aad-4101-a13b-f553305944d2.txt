@@ -1,0 +1,65 @@
+FancyGPT lets you beautify your threads, and store them for future reference or sharing with others.
+
+1.  Choose a style that you like
+2.  Add an optional snippet title
+3.  Exclude any messages that you don't want
+4.  Click and drag on ChatGPT messages to highlight content
+5.  Click "Save Image" to download your fancy snippet as an image
+6.  Click "Save PDF" to download your fancy snippet as a searchable PDF
+7.  Click "Save Text file" to download your fancy snippet as a text file (in markdown format)
+
+Note: This extension is reliant on ChatGPT's thread format and could break if things change.
+
+Don't show this info box each time
+
+### Cell-free systems 4/3 - 018a26dd-6aad-4101-a13b-f553305944d2
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Create a litterature review in the tone of a professor for an academic paper on the topic of "Cell-free systems". References should be in APA format
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Introduction:
+
+Cell-free systems are becoming increasingly popular in the field of synthetic biology as a means of constructing complex biological systems. The use of cell-free systems offers many advantages over traditional in vivo approaches, including reduced complexity, increased control, and improved scalability. This literature review will provide an overview of the current state of research on cell-free systems, including the different types of systems that are available, their applications, and the challenges that still need to be addressed.
+
+Types of Cell-Free Systems:
+
+There are two main types of cell-free systems: lysate-based systems and purified component-based systems. Lysate-based systems are created by breaking open cells and using the resulting cellular extract as the basis for the cell-free system. Purified component-based systems, on the other hand, use purified enzymes and other components to create a synthetic biological system.
+
+Applications of Cell-Free Systems:
+
+Cell-free systems have a wide range of potential applications, including the production of therapeutic proteins, the construction of biosensors, and the creation of synthetic genetic circuits. One particularly promising application is the use of cell-free systems for the production of complex biologics. Recent studies have shown that cell-free systems can be used to produce proteins that are difficult or impossible to produce using traditional in vivo approaches.
+
+Challenges:
+
+Despite the many advantages of cell-free systems, there are still several challenges that need to be addressed. One major challenge is the limited lifespan of cell-free systems, which can limit the scalability of the technology. Another challenge is the need for improved control over the cellular environment within the cell-free system. Current approaches rely on simple buffer systems, which may not provide the necessary level of control for more complex biological systems.
+
+Conclusion:
+
+In conclusion, cell-free systems offer many advantages over traditional in vivo approaches for constructing complex biological systems. However, there are still several challenges that need to be addressed before cell-free systems can be widely adopted as a standard approach in synthetic biology. Future research will need to focus on improving the lifespan and scalability of cell-free systems, as well as developing better methods for controlling the cellular environment within the system.
+
+References:
+
+Hodgman CE, Jewett MC. Cell-free synthetic biology: thinking outside the cell. Metab Eng. 2012;14(3):261-269. doi:10.1016/j.ymben.2011.09.002
+
+Jewett MC, Forster AC. Update on designing and building minimal cells. Curr Opin Biotechnol. 2010;21(4):697-703. doi:10.1016/j.copbio.2010.09.010
+
+Kazuta Y, Tsukada K, Takai K, et al. Cell-free translation and selection system for isolation of novel enzymes. Biosci Biotechnol Biochem. 2008;72(11):2866-2871. doi:10.1271/bbb.80354
+
+Karig DK, Iyer S, Simpson ML. Developing synthetic biology tools for complex in vitro prototyping: Small-scale expression control in a mammalian cell-free system. Methods. 2011;54(4):374-380. doi:10.1016/j.ymeth.2011.02.007
+
+Swartz JR. Advances in Escherichia coli production of therapeutic proteins. Curr Opin Biotechnol. 2001;12(2):195-201. doi:10.1016/s0958-1669(00)00192-4
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Write the references in a code block as BibTeX
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+`@article{hodgman2012cell,   title={Cell-free synthetic biology: thinking outside the cell},   author={Hodgman, C Eric and Jewett, Michael C},   journal={Metabolic engineering},   volume={14},   number={3},   pages={261--269},   year={2012},   publisher={Elsevier} }  @article{jewett2010update,   title={Update on designing and building minimal cells},   author={Jewett, Michael C and Forster, Anthony C},   journal={Current opinion in biotechnology},   volume={21},   number={4},   pages={697--703},   year={2010},   publisher={Elsevier} }  @article{kazuta2008cell,   title={Cell-free translation and selection system for isolation of novel enzymes},   author={Kazuta, Yasuhiro and Tsukada, Koji and Takai, Ken and Ohtake, Hitoshi and Kondo, Akihiko},   journal={Bioscience, biotechnology, and biochemistry},   volume={72},   number={11},   pages={2866--2871},   year={2008},   publisher={Taylor \& Francis} }  @article{karig2011developing,   title={Developing synthetic biology tools for complex in vitro prototyping: Small-scale expression control in a mammalian cell-free system},   author={Karig, David K and Iyer, Sriram and Simpson, Michael L},   journal={Methods},   volume={54},   number={4},   pages={374--380},   year={2011},   publisher={Elsevier} }  @article{swartz2001advances,   title={Advances in Escherichia coli production of therapeutic proteins},   author={Swartz, James R},   journal={Current opinion in biotechnology},   volume={12},   number={2},   pages={195--201},   year={2001},   publisher={Elsevier} }`
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+From ChatGPT, designed with FancyGPT
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
